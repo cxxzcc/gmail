@@ -1,0 +1,11 @@
+package com.atguigu.gmall.seckill.myTest;
+
+/**
+ * @author cch
+ * @date 2021/11/10$
+ * @since JDK1.8
+ */
+public interface aa {
+    boolean isDone(String s);
+    void done(String s);
+}
